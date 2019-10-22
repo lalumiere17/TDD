@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddDemo", "ConsoleApp2\TddDemo.csproj", "{7506DF3D-D459-4142-BFF2-6609C6585CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddDemoTests", "NUnitTestProject1\TddDemoTests.csproj", "{83C11602-E000-47BC-A0F6-FAD83880B02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7506DF3D-D459-4142-BFF2-6609C6585CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7506DF3D-D459-4142-BFF2-6609C6585CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7506DF3D-D459-4142-BFF2-6609C6585CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7506DF3D-D459-4142-BFF2-6609C6585CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C11602-E000-47BC-A0F6-FAD83880B02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C11602-E000-47BC-A0F6-FAD83880B02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C11602-E000-47BC-A0F6-FAD83880B02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C11602-E000-47BC-A0F6-FAD83880B02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B28711AC-E0DA-41DC-AC03-8D06A5BD9FF6}
+	EndGlobalSection
+EndGlobal
